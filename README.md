@@ -1,6 +1,6 @@
 # Project Prescilla
 The main purpose of this project is to implement various numerical algorithms to solve some physics equations using high-perfomance graphics cards (GPGPU technology).
-<cetner>![logo](https://raw.github.com/molefrog/prescilla/master/results/logo.png)</center>
+![logo](https://raw.github.com/molefrog/prescilla/master/results/logo.png)
 
 ### Current result:
 - Finite differences method
